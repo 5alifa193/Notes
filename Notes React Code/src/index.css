@@ -1,0 +1,47 @@
+body{
+  background-color: #343a40 !important;
+}
+.navbar-control{
+  background-color: #343a40;
+  color: white;
+}
+.my-btn{
+  background-color: rgb(23,162,184) !important;
+  color: white !important;
+  border-radius: 5px;
+  border: none;
+}
+.error{
+  background-color: #f8d7da;
+  color: #721c24;
+}
+.no-notes{
+  color: #0c5460;
+  background-color: #d1ecf1;
+  border-radius: 5px;
+}
+.add-note{
+  background-color: rgba(0, 0, 0, .7);
+}
+.note-position{
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+}
+.note-bg{
+  background-color: #ccffcc;
+}
+.icon-position{
+  top: 10px;
+  right: 20px;
+}
+.icon-position2{
+  top: 10px;
+  right: 20px;
+}
+.icon-select{
+  cursor: pointer;
+}
+.cursor{
+  cursor: pointer;
+}
